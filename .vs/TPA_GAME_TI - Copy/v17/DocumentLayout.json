@@ -1,0 +1,214 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\steve\\UnityLearn\\TPA_GAME_TI - Copy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A93A6ACC-CD5F-4A5A-D12F-C45F9557FD26}|Assembly-CSharp.csproj|C:\\Users\\steve\\UnityLearn\\TPA_GAME_TI - Copy\\assets\\scripts\\game\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A93A6ACC-CD5F-4A5A-D12F-C45F9557FD26}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\game\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A93A6ACC-CD5F-4A5A-D12F-C45F9557FD26}|Assembly-CSharp.csproj|c:\\users\\steve\\unitylearn\\tpa_game_ti - copy\\assets\\scripts\\player\\state\\concretestate\\playeridlestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A93A6ACC-CD5F-4A5A-D12F-C45F9557FD26}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\state\\concretestate\\playeridlestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A93A6ACC-CD5F-4A5A-D12F-C45F9557FD26}|Assembly-CSharp.csproj|C:\\Users\\steve\\UnityLearn\\TPA_GAME_TI - Copy\\assets\\scripts\\upgrademenu\\upgradeitemmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A93A6ACC-CD5F-4A5A-D12F-C45F9557FD26}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\upgrademenu\\upgradeitemmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A93A6ACC-CD5F-4A5A-D12F-C45F9557FD26}|Assembly-CSharp.csproj|C:\\Users\\steve\\UnityLearn\\TPA_GAME_TI - Copy\\assets\\scripts\\damagepopup\\damagepopupgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A93A6ACC-CD5F-4A5A-D12F-C45F9557FD26}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\damagepopup\\damagepopupgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A93A6ACC-CD5F-4A5A-D12F-C45F9557FD26}|Assembly-CSharp.csproj|C:\\Users\\steve\\UnityLearn\\TPA_GAME_TI - Copy\\assets\\scripts\\mainmenu\\mainmenuscripts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A93A6ACC-CD5F-4A5A-D12F-C45F9557FD26}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mainmenu\\mainmenuscripts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A93A6ACC-CD5F-4A5A-D12F-C45F9557FD26}|Assembly-CSharp.csproj|C:\\Users\\steve\\UnityLearn\\TPA_GAME_TI - Copy\\assets\\scripts\\player\\savedata\\savesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A93A6ACC-CD5F-4A5A-D12F-C45F9557FD26}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\savedata\\savesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A93A6ACC-CD5F-4A5A-D12F-C45F9557FD26}|Assembly-CSharp.csproj|C:\\Users\\steve\\UnityLearn\\TPA_GAME_TI - Copy\\assets\\scripts\\enemy\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A93A6ACC-CD5F-4A5A-D12F-C45F9557FD26}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A93A6ACC-CD5F-4A5A-D12F-C45F9557FD26}|Assembly-CSharp.csproj|C:\\Users\\steve\\UnityLearn\\TPA_GAME_TI - Copy\\assets\\scripts\\player\\base\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A93A6ACC-CD5F-4A5A-D12F-C45F9557FD26}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\base\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A93A6ACC-CD5F-4A5A-D12F-C45F9557FD26}|Assembly-CSharp.csproj|C:\\Users\\steve\\UnityLearn\\TPA_GAME_TI - Copy\\assets\\scripts\\gameui\\gameuimanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A93A6ACC-CD5F-4A5A-D12F-C45F9557FD26}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gameui\\gameuimanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A93A6ACC-CD5F-4A5A-D12F-C45F9557FD26}|Assembly-CSharp.csproj|C:\\Users\\steve\\UnityLearn\\TPA_GAME_TI - Copy\\assets\\scripts\\damagepopup\\damagepiopupanimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A93A6ACC-CD5F-4A5A-D12F-C45F9557FD26}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\damagepopup\\damagepiopupanimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A93A6ACC-CD5F-4A5A-D12F-C45F9557FD26}|Assembly-CSharp.csproj|C:\\Users\\steve\\UnityLearn\\TPA_GAME_TI - Copy\\assets\\scripts\\upgrademenu\\upgradeitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A93A6ACC-CD5F-4A5A-D12F-C45F9557FD26}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\upgrademenu\\upgradeitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A93A6ACC-CD5F-4A5A-D12F-C45F9557FD26}|Assembly-CSharp.csproj|C:\\Users\\steve\\UnityLearn\\TPA_GAME_TI - Copy\\assets\\scripts\\player\\savedata\\savedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A93A6ACC-CD5F-4A5A-D12F-C45F9557FD26}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\savedata\\savedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\steve\\UnityLearn\\TPA_GAME_TI - Copy\\Assets\\Scripts\\Player\\Base\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\Base\\Player.cs",
+              "ToolTip": "C:\\Users\\steve\\UnityLearn\\TPA_GAME_TI - Copy\\Assets\\Scripts\\Player\\Base\\Player.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\Base\\Player.cs",
+              "ViewState": "AQIAAMwAAAAAAAAAAAAwwLgAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T16:37:13.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerIdleState.cs",
+              "DocumentMoniker": "C:\\Users\\steve\\UnityLearn\\TPA_GAME_TI - Copy\\Assets\\Scripts\\Player\\State\\ConcreteState\\PlayerIdleState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\State\\ConcreteState\\PlayerIdleState.cs",
+              "ToolTip": "C:\\Users\\steve\\UnityLearn\\TPA_GAME_TI - Copy\\Assets\\Scripts\\Player\\State\\ConcreteState\\PlayerIdleState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\State\\ConcreteState\\PlayerIdleState.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T16:13:04.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "C:\\Users\\steve\\UnityLearn\\TPA_GAME_TI - Copy\\Assets\\Scripts\\Enemy\\Enemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\Enemy.cs",
+              "ToolTip": "C:\\Users\\steve\\UnityLearn\\TPA_GAME_TI - Copy\\Assets\\Scripts\\Enemy\\Enemy.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\Enemy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T06:12:01.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DamagePiopUpAnimation.cs",
+              "DocumentMoniker": "C:\\Users\\steve\\UnityLearn\\TPA_GAME_TI - Copy\\Assets\\Scripts\\DamagePopUp\\DamagePiopUpAnimation.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DamagePopUp\\DamagePiopUpAnimation.cs",
+              "ToolTip": "C:\\Users\\steve\\UnityLearn\\TPA_GAME_TI - Copy\\Assets\\Scripts\\DamagePopUp\\DamagePiopUpAnimation.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DamagePopUp\\DamagePiopUpAnimation.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAmwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T05:42:46.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DamagePopUpGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\steve\\UnityLearn\\TPA_GAME_TI - Copy\\Assets\\Scripts\\DamagePopUp\\DamagePopUpGenerator.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DamagePopUp\\DamagePopUpGenerator.cs",
+              "ToolTip": "C:\\Users\\steve\\UnityLearn\\TPA_GAME_TI - Copy\\Assets\\Scripts\\DamagePopUp\\DamagePopUpGenerator.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DamagePopUp\\DamagePopUpGenerator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T05:18:20.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UpgradeItemManager.cs",
+              "DocumentMoniker": "C:\\Users\\steve\\UnityLearn\\TPA_GAME_TI - Copy\\Assets\\Scripts\\UpgradeMenu\\UpgradeItemManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UpgradeMenu\\UpgradeItemManager.cs",
+              "ToolTip": "C:\\Users\\steve\\UnityLearn\\TPA_GAME_TI - Copy\\Assets\\Scripts\\UpgradeMenu\\UpgradeItemManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UpgradeMenu\\UpgradeItemManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T05:04:28.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GameUIManger.cs",
+              "DocumentMoniker": "C:\\Users\\steve\\UnityLearn\\TPA_GAME_TI - Copy\\Assets\\Scripts\\GameUI\\GameUIManger.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameUI\\GameUIManger.cs",
+              "ToolTip": "C:\\Users\\steve\\UnityLearn\\TPA_GAME_TI - Copy\\Assets\\Scripts\\GameUI\\GameUIManger.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameUI\\GameUIManger.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwBgAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T05:01:58.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UpgradeItem.cs",
+              "DocumentMoniker": "C:\\Users\\steve\\UnityLearn\\TPA_GAME_TI - Copy\\Assets\\Scripts\\UpgradeMenu\\UpgradeItem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UpgradeMenu\\UpgradeItem.cs",
+              "ToolTip": "C:\\Users\\steve\\UnityLearn\\TPA_GAME_TI - Copy\\Assets\\Scripts\\UpgradeMenu\\UpgradeItem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UpgradeMenu\\UpgradeItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T04:52:08.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SaveData.cs",
+              "DocumentMoniker": "C:\\Users\\steve\\UnityLearn\\TPA_GAME_TI - Copy\\Assets\\Scripts\\Player\\SaveData\\SaveData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\SaveData\\SaveData.cs",
+              "ToolTip": "C:\\Users\\steve\\UnityLearn\\TPA_GAME_TI - Copy\\Assets\\Scripts\\Player\\SaveData\\SaveData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\SaveData\\SaveData.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T04:49:27.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainMenuScripts.cs",
+              "DocumentMoniker": "C:\\Users\\steve\\UnityLearn\\TPA_GAME_TI - Copy\\Assets\\Scripts\\MainMenu\\MainMenuScripts.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MainMenu\\MainMenuScripts.cs",
+              "ToolTip": "C:\\Users\\steve\\UnityLearn\\TPA_GAME_TI - Copy\\Assets\\Scripts\\MainMenu\\MainMenuScripts.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MainMenu\\MainMenuScripts.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T04:47:04.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SaveSystem.cs",
+              "DocumentMoniker": "C:\\Users\\steve\\UnityLearn\\TPA_GAME_TI - Copy\\Assets\\Scripts\\Player\\SaveData\\SaveSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\SaveData\\SaveSystem.cs",
+              "ToolTip": "C:\\Users\\steve\\UnityLearn\\TPA_GAME_TI - Copy\\Assets\\Scripts\\Player\\SaveData\\SaveSystem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\SaveData\\SaveSystem.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAwwBcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T04:33:53.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\steve\\UnityLearn\\TPA_GAME_TI - Copy\\Assets\\Scripts\\Game\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Game\\GameManager.cs",
+              "ToolTip": "C:\\Users\\steve\\UnityLearn\\TPA_GAME_TI - Copy\\Assets\\Scripts\\Game\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Game\\GameManager.cs",
+              "ViewState": "AQIAAIcAAAAAAAAAAAAlwJEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T04:33:27.75Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

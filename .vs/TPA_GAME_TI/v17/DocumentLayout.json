@@ -1,0 +1,215 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\steve\\UnityLearn\\TPA_GAME_TI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{824808AA-ED8F-AECE-A478-139CA4819E0C}|Assembly-CSharp.csproj|c:\\users\\steve\\unitylearn\\tpa_game_ti\\assets\\scripts\\game\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{824808AA-ED8F-AECE-A478-139CA4819E0C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\game\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{824808AA-ED8F-AECE-A478-139CA4819E0C}|Assembly-CSharp.csproj|C:\\Users\\steve\\UnityLearn\\TPA_GAME_TI\\assets\\scripts\\mainmenu\\mainmenuscripts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{824808AA-ED8F-AECE-A478-139CA4819E0C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mainmenu\\mainmenuscripts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{824808AA-ED8F-AECE-A478-139CA4819E0C}|Assembly-CSharp.csproj|C:\\Users\\steve\\UnityLearn\\TPA_GAME_TI\\assets\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{824808AA-ED8F-AECE-A478-139CA4819E0C}|Assembly-CSharp.csproj|solutionrelative:assets\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{824808AA-ED8F-AECE-A478-139CA4819E0C}|Assembly-CSharp.csproj|C:\\Users\\steve\\UnityLearn\\TPA_GAME_TI\\assets\\audio\\button\\buttonaudio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{824808AA-ED8F-AECE-A478-139CA4819E0C}|Assembly-CSharp.csproj|solutionrelative:assets\\audio\\button\\buttonaudio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{824808AA-ED8F-AECE-A478-139CA4819E0C}|Assembly-CSharp.csproj|C:\\Users\\steve\\UnityLearn\\TPA_GAME_TI\\assets\\audio\\button\\buttonaudiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{824808AA-ED8F-AECE-A478-139CA4819E0C}|Assembly-CSharp.csproj|solutionrelative:assets\\audio\\button\\buttonaudiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{824808AA-ED8F-AECE-A478-139CA4819E0C}|Assembly-CSharp.csproj|C:\\Users\\steve\\UnityLearn\\TPA_GAME_TI\\assets\\scripts\\player\\state\\concretestate\\playeridlestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{824808AA-ED8F-AECE-A478-139CA4819E0C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\state\\concretestate\\playeridlestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{824808AA-ED8F-AECE-A478-139CA4819E0C}|Assembly-CSharp.csproj|C:\\Users\\steve\\UnityLearn\\TPA_GAME_TI\\assets\\scripts\\upgrademenu\\upgradeitemmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{824808AA-ED8F-AECE-A478-139CA4819E0C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\upgrademenu\\upgradeitemmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{824808AA-ED8F-AECE-A478-139CA4819E0C}|Assembly-CSharp.csproj|C:\\Users\\steve\\UnityLearn\\TPA_GAME_TI\\assets\\scripts\\gameui\\gameuimanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{824808AA-ED8F-AECE-A478-139CA4819E0C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gameui\\gameuimanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{824808AA-ED8F-AECE-A478-139CA4819E0C}|Assembly-CSharp.csproj|C:\\Users\\steve\\UnityLearn\\TPA_GAME_TI\\assets\\scripts\\maze\\mazegenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{824808AA-ED8F-AECE-A478-139CA4819E0C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\maze\\mazegenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{824808AA-ED8F-AECE-A478-139CA4819E0C}|Assembly-CSharp.csproj|C:\\Users\\steve\\UnityLearn\\TPA_GAME_TI\\assets\\scripts\\player\\base\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{824808AA-ED8F-AECE-A478-139CA4819E0C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\base\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{824808AA-ED8F-AECE-A478-139CA4819E0C}|Assembly-CSharp.csproj|C:\\Users\\steve\\UnityLearn\\TPA_GAME_TI\\assets\\scripts\\enemy\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{824808AA-ED8F-AECE-A478-139CA4819E0C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{824808AA-ED8F-AECE-A478-139CA4819E0C}|Assembly-CSharp.csproj|C:\\Users\\steve\\UnityLearn\\TPA_GAME_TI\\assets\\scripts\\enemy\\enemystatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{824808AA-ED8F-AECE-A478-139CA4819E0C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\enemystatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MazeGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\steve\\UnityLearn\\TPA_GAME_TI\\Assets\\Scripts\\Maze\\MazeGenerator.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Maze\\MazeGenerator.cs",
+              "ToolTip": "C:\\Users\\steve\\UnityLearn\\TPA_GAME_TI\\Assets\\Scripts\\Maze\\MazeGenerator.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Maze\\MazeGenerator.cs",
+              "ViewState": "AQIAAHsAAAAAAAAAAAAowA8AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T16:08:32.526Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\steve\\UnityLearn\\TPA_GAME_TI\\Assets\\Scripts\\Game\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Game\\GameManager.cs",
+              "ToolTip": "C:\\Users\\steve\\UnityLearn\\TPA_GAME_TI\\Assets\\Scripts\\Game\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Game\\GameManager.cs",
+              "ViewState": "AQIAALAAAAAAAAAAAAAswLkAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T03:11:28.009Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainMenuScripts.cs",
+              "DocumentMoniker": "C:\\Users\\steve\\UnityLearn\\TPA_GAME_TI\\Assets\\Scripts\\MainMenu\\MainMenuScripts.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MainMenu\\MainMenuScripts.cs",
+              "ToolTip": "C:\\Users\\steve\\UnityLearn\\TPA_GAME_TI\\Assets\\Scripts\\MainMenu\\MainMenuScripts.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MainMenu\\MainMenuScripts.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T00:57:04.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\steve\\UnityLearn\\TPA_GAME_TI\\Assets\\Scripts\\Player\\Base\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\Base\\Player.cs",
+              "ToolTip": "C:\\Users\\steve\\UnityLearn\\TPA_GAME_TI\\Assets\\Scripts\\Player\\Base\\Player.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\Base\\Player.cs",
+              "ViewState": "AQIAAJwAAAAAAAAAAAAAwKQAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T00:45:46.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "C:\\Users\\steve\\UnityLearn\\TPA_GAME_TI\\Assets\\Scripts\\Enemy\\Enemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\Enemy.cs",
+              "ToolTip": "C:\\Users\\steve\\UnityLearn\\TPA_GAME_TI\\Assets\\Scripts\\Enemy\\Enemy.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\Enemy.cs",
+              "ViewState": "AQIAAPYAAAAAAAAAAAAswAYBAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T00:36:41.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AudioManager.cs",
+              "DocumentMoniker": "C:\\Users\\steve\\UnityLearn\\TPA_GAME_TI\\Assets\\AudioManager.cs",
+              "RelativeDocumentMoniker": "Assets\\AudioManager.cs",
+              "ToolTip": "C:\\Users\\steve\\UnityLearn\\TPA_GAME_TI\\Assets\\AudioManager.cs",
+              "RelativeToolTip": "Assets\\AudioManager.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAmwBAAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T15:48:50.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GameUIManger.cs",
+              "DocumentMoniker": "C:\\Users\\steve\\UnityLearn\\TPA_GAME_TI\\Assets\\Scripts\\GameUI\\GameUIManger.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameUI\\GameUIManger.cs",
+              "ToolTip": "C:\\Users\\steve\\UnityLearn\\TPA_GAME_TI\\Assets\\Scripts\\GameUI\\GameUIManger.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameUI\\GameUIManger.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwCgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T03:15:16.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UpgradeItemManager.cs",
+              "DocumentMoniker": "C:\\Users\\steve\\UnityLearn\\TPA_GAME_TI\\Assets\\Scripts\\UpgradeMenu\\UpgradeItemManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UpgradeMenu\\UpgradeItemManager.cs",
+              "ToolTip": "C:\\Users\\steve\\UnityLearn\\TPA_GAME_TI\\Assets\\Scripts\\UpgradeMenu\\UpgradeItemManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UpgradeMenu\\UpgradeItemManager.cs",
+              "ViewState": "AQIAAG4AAAAAAAAAAAAkwIEAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T03:04:25.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EnemyStatus.cs",
+              "DocumentMoniker": "C:\\Users\\steve\\UnityLearn\\TPA_GAME_TI\\Assets\\Scripts\\Enemy\\EnemyStatus.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\EnemyStatus.cs",
+              "ToolTip": "C:\\Users\\steve\\UnityLearn\\TPA_GAME_TI\\Assets\\Scripts\\Enemy\\EnemyStatus.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\EnemyStatus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T00:44:08.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PlayerIdleState.cs",
+              "DocumentMoniker": "C:\\Users\\steve\\UnityLearn\\TPA_GAME_TI\\Assets\\Scripts\\Player\\State\\ConcreteState\\PlayerIdleState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\State\\ConcreteState\\PlayerIdleState.cs",
+              "ToolTip": "C:\\Users\\steve\\UnityLearn\\TPA_GAME_TI\\Assets\\Scripts\\Player\\State\\ConcreteState\\PlayerIdleState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\State\\ConcreteState\\PlayerIdleState.cs",
+              "ViewState": "AQIAAFkAAAAAAAAAAAAIwF8AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T16:12:20.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ButtonAudioManager.cs",
+              "DocumentMoniker": "C:\\Users\\steve\\UnityLearn\\TPA_GAME_TI\\Assets\\Audio\\Button\\ButtonAudioManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Audio\\Button\\ButtonAudioManager.cs",
+              "ToolTip": "C:\\Users\\steve\\UnityLearn\\TPA_GAME_TI\\Assets\\Audio\\Button\\ButtonAudioManager.cs",
+              "RelativeToolTip": "Assets\\Audio\\Button\\ButtonAudioManager.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAgAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T13:36:54.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ButtonAudio.cs",
+              "DocumentMoniker": "C:\\Users\\steve\\UnityLearn\\TPA_GAME_TI\\Assets\\Audio\\Button\\ButtonAudio.cs",
+              "RelativeDocumentMoniker": "Assets\\Audio\\Button\\ButtonAudio.cs",
+              "ToolTip": "C:\\Users\\steve\\UnityLearn\\TPA_GAME_TI\\Assets\\Audio\\Button\\ButtonAudio.cs",
+              "RelativeToolTip": "Assets\\Audio\\Button\\ButtonAudio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T13:36:53.03Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
